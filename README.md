@@ -54,6 +54,8 @@
 ## 目录结构
 
 ```
+examples/night-noodle-shop/             真实案例：22.6s 短片的资产实录
+
 doc-to-storyboard/
 ├── SKILL.md                              六阶段 + 十二条硬规则 + 三道闸门
 ├── references/
@@ -65,6 +67,19 @@ doc-to-storyboard/
     ├── asset-registry.md                 资产表模板
     └── deliverable-template.md           交付文档骨架
 ```
+
+## 示例
+
+[`examples/night-noodle-shop/`](examples/night-noodle-shop/) —— 一条 22.6 秒双人对话短片的资产实录，包含已填好的资产表、确认过的定妆图，以及**被闸门拦下的反例**。
+
+四个值得先看的地方：
+
+| 看什么 | 能学到什么 |
+|---|---|
+| 场表只有一场，却分两组生成 | 节拍属于分镜，场属于空间与时间 |
+| `S1_reverse.png` 里母亲完全背对镜头 | 场景里带人物，要么不带脸，要么把人物资产当参考图 |
+| `O1_hero_rejected.png` vs `O1_hero.png` | 容器口径收窄 = 取不出东西，结构可用性优先于好看 |
+| 资产表里「P2 是本次返工最该先做的东西」那段批注 | 没有确认过的资产锚点，每镜都会重新变一次脸 |
 
 ## 安装
 
